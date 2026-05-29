@@ -1,0 +1,22 @@
+{
+  "stats": [
+    { "valeur": "500+", "label": "Étudiants formés", "icon": "GraduationCap" },
+    { "valeur": "120+", "label": "Entreprises accompagnées", "icon": "Building2" },
+    { "valeur": "10+", "label": "Ans d'expérience", "icon": "Calendar" },
+    { "valeur": "50+", "label": "Formateurs certifiés", "icon": "Award" }
+  ],
+  "valeurs": [
+    { "titre": "Professionnalisme", "icon": "Award", "description": "Qualité irréprochable dans toutes nos interventions." },
+    { "titre": "Excellence", "icon": "Star", "description": "Nous visons l'excellence dans chaque accompagnement." },
+    { "titre": "Innovation", "icon": "Lightbulb", "description": "Des méthodes modernes adaptées aux réalités du marché." },
+    { "titre": "Engagement", "icon": "Handshake", "description": "Pleinement investis dans la réussite de nos clients." },
+    { "titre": "Satisfaction", "icon": "Heart", "description": "Votre satisfaction est notre priorité absolue." }
+  ],
+  "pourquoiNous": [
+    { "titre": "Expertise professionnelle", "icon": "Award", "description": "Une équipe de consultants certifiés avec des années d'expérience dans leur domaine." },
+    { "titre": "Accompagnement personnalisé", "icon": "UserCheck", "description": "Chaque client bénéficie d'un suivi sur mesure adapté à ses besoins spécifiques." },
+    { "titre": "Équipe qualifiée", "icon": "Users", "description": "Nos formateurs et coaches sont sélectionnés rigoureusement pour leur excellence." },
+    { "titre": "Solutions adaptées", "icon": "Settings", "description": "Des solutions pragmatiques et adaptées aux réalités du marché africain." },
+    { "titre": "Suivi efficace", "icon": "TrendingUp", "description": "Un suivi post-formation et post-mission pour garantir des résultats durables." }
+  ]
+}

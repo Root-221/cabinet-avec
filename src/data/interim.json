@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nom": "Aminata Sow",
+    "poste": "Assistante Administrative",
+    "categorie": "Administratif",
+    "experience": "3 ans",
+    "competences": ["Gestion administrative", "Accueil et secrétariat", "Microsoft Office", "Communication"],
+    "disponibilite": "Immédiate",
+    "contrat": "CDD / Intérim",
+    "icon": "FileText",
+    "image": "https://i.pravatar.cc/150?u=aminata"
+  },
+  {
+    "id": 2,
+    "nom": "Moussa Diallo",
+    "poste": "Caissier Principal",
+    "categorie": "Commerce",
+    "experience": "5 ans",
+    "competences": ["Gestion de caisse", "Contrôle des stocks", "Service client", "Rapport financier"],
+    "disponibilite": "15 jours",
+    "contrat": "CDI / Intérim",
+    "icon": "DollarSign",
+    "image": "https://i.pravatar.cc/150?u=moussa_d"
+  },
+  {
+    "id": 3,
+    "nom": "Fatou Ndiaye",
+    "poste": "Commerciale Terrain",
+    "categorie": "Commercial",
+    "experience": "4 ans",
+    "competences": ["Prospection commerciale", "Négociation", "CRM", "Présentation produits"],
+    "disponibilite": "Immédiate",
+    "contrat": "CDD / CDI",
+    "icon": "TrendingUp",
+    "image": "https://i.pravatar.cc/150?u=fatou"
+  },
+  {
+    "id": 4,
+    "nom": "Ibrahima Gaye",
+    "poste": "Technicien Informatique",
+    "categorie": "Technique",
+    "experience": "6 ans",
+    "competences": ["Maintenance réseau", "Support technique", "Windows/Linux", "Câblage réseau"],
+    "disponibilite": "1 mois",
+    "contrat": "CDI / Intérim",
+    "icon": "Settings",
+    "image": "https://i.pravatar.cc/150?u=ibrahima_g"
+  },
+  {
+    "id": 5,
+    "nom": "Mariama Balde",
+    "poste": "Comptable Junior",
+    "categorie": "Finance",
+    "experience": "2 ans",
+    "competences": ["Comptabilité générale", "SAGE Comptabilité", "Déclarations fiscales", "Bilan"],
+    "disponibilite": "Immédiate",
+    "contrat": "CDD / Intérim",
+    "icon": "Calculator",
+    "image": "https://i.pravatar.cc/150?u=mariama"
+  },
+  {
+    "id": 6,
+    "nom": "Ousmane Fall",
+    "poste": "Commercial Sédentaire",
+    "categorie": "Commercial",
+    "experience": "3 ans",
+    "competences": ["Vente téléphonique", "Gestion des commandes", "Service client", "Reporting"],
+    "disponibilite": "Immédiate",
+    "contrat": "CDD",
+    "icon": "PhoneCall",
+    "image": "https://i.pravatar.cc/150?u=ousmane"
+  },
+  {
+    "id": 7,
+    "nom": "Khadija Touré",
+    "poste": "Secrétaire de Direction",
+    "categorie": "Administratif",
+    "experience": "7 ans",
+    "competences": ["Gestion agenda dirigeant", "Rédaction courriers", "Organisation réunions", "Accueil VIP"],
+    "disponibilite": "1 mois",
+    "contrat": "CDI",
+    "icon": "Calendar",
+    "image": "https://i.pravatar.cc/150?u=khadija"
+  },
+  {
+    "id": 8,
+    "nom": "Cheikh Mboup",
+    "poste": "Agent de Sécurité",
+    "categorie": "Sécurité",
+    "experience": "8 ans",
+    "competences": ["Surveillance et gardiennage", "Gestion des accès", "Premiers secours", "Rapport d'incident"],
+    "disponibilite": "Immédiate",
+    "contrat": "CDD / CDI",
+    "icon": "Shield",
+    "image": "https://i.pravatar.cc/150?u=cheikh"
+  }
+]

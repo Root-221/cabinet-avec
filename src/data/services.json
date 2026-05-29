@@ -1,0 +1,66 @@
+[
+  {
+    "id": "consulting",
+    "title": "Consulting",
+    "icon": "Briefcase",
+    "shortDesc": "Accompagnement stratégique des entreprises vers l'excellence organisationnelle.",
+    "description": "Notre pôle Consulting propose des solutions sur mesure pour aider les entreprises à optimiser leur organisation, améliorer leurs processus et atteindre leurs objectifs stratégiques. Nous intervenons à toutes les étapes du développement de votre entreprise.",
+    "subServices": [
+      "Gestion administrative et organisationnelle",
+      "Conseils en stratégie d'entreprise",
+      "Stratégie de développement",
+      "Gestion des ressources humaines",
+      "Assistance organisationnelle",
+      "Audit et diagnostic d'entreprise"
+    ],
+    "color": "#1565C0"
+  },
+  {
+    "id": "formation",
+    "title": "Formation",
+    "icon": "GraduationCap",
+    "shortDesc": "Des formations professionnelles adaptées aux réalités du marché africain.",
+    "description": "Notre centre de formation propose des programmes certifiants et qualifiants dans de nombreux domaines professionnels. Nos formateurs qualifiés dispensent des formations pratiques avec attestations reconnues.",
+    "subServices": [
+      "Formations professionnelles adaptées",
+      "Formateurs qualifiés et certifiés",
+      "Attestations et certificats officiels",
+      "Formation pratique et théorique",
+      "Suivi personnalisé des apprenants",
+      "Programmes sur mesure en entreprise"
+    ],
+    "color": "#F9A825"
+  },
+  {
+    "id": "coaching",
+    "title": "Coaching",
+    "icon": "Target",
+    "shortDesc": "Développez votre potentiel et atteignez vos objectifs professionnels.",
+    "description": "Notre équipe de coaches certifiés accompagne les professionnels et les équipes dans leur développement personnel et professionnel. Nous utilisons des méthodes éprouvées pour révéler les talents cachés.",
+    "subServices": [
+      "Coaching professionnel individuel",
+      "Coaching en leadership et management",
+      "Préparation aux entretiens d'embauche",
+      "Développement personnel",
+      "Prise de parole en public",
+      "Coaching d'équipe et cohésion"
+    ],
+    "color": "#C62828"
+  },
+  {
+    "id": "interim",
+    "title": "Intérim / RH",
+    "icon": "Users",
+    "shortDesc": "Mise à disposition de profils qualifiés et solutions RH complètes.",
+    "description": "Notre pôle Intérim et Ressources Humaines met à votre disposition des profils qualifiés dans tous les secteurs d'activité. Nous gérons le processus complet de recrutement, placement et gestion du personnel.",
+    "subServices": [
+      "Mise à disposition de profils qualifiés",
+      "Recrutement et sélection de candidats",
+      "Placement professionnel",
+      "Gestion du personnel externalisé",
+      "Accompagnement RH complet",
+      "Contrats de travail temporaire"
+    ],
+    "color": "#2E7D32"
+  }
+]

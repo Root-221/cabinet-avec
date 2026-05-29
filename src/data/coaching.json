@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "titre": "Coaching Professionnel",
+    "description": "Un accompagnement personnalisé pour développer vos compétences professionnelles, clarifier vos objectifs de carrière et maximiser votre performance au travail.",
+    "duree": "3 mois",
+    "sessions": "12 séances",
+    "format": "Individuel",
+    "icon": "Briefcase",
+    "benefices": [
+      "Clarification des objectifs professionnels",
+      "Développement des compétences clés",
+      "Amélioration de la performance",
+      "Gestion du temps et des priorités",
+      "Construction d'un plan de carrière solide"
+    ]
+  },
+  {
+    "id": 2,
+    "titre": "Coaching en Leadership",
+    "description": "Développez votre style de leadership, apprenez à motiver et fédérer vos équipes, et devenez le leader inspirant que votre organisation mérite.",
+    "duree": "2 mois",
+    "sessions": "8 séances",
+    "format": "Individuel ou groupe",
+    "icon": "Crown",
+    "benefices": [
+      "Identification de son style de leadership",
+      "Techniques de motivation d'équipe",
+      "Gestion des conflits",
+      "Communication managériale",
+      "Prise de décision stratégique"
+    ]
+  },
+  {
+    "id": 3,
+    "titre": "Prise de Parole en Public",
+    "description": "Surmontez votre appréhension et apprenez à parler avec assurance devant un public. Des techniques concrètes pour captiver votre audience et transmettre vos messages avec impact.",
+    "duree": "1 mois",
+    "sessions": "6 séances",
+    "format": "Groupe (max 8 personnes)",
+    "icon": "Mic",
+    "benefices": [
+      "Gestion du trac et du stress",
+      "Techniques de respiration et de posture",
+      "Structure d'un discours percutant",
+      "Contact visuel et langage corporel",
+      "Pratique intensive avec feedback"
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "Préparation aux Entretiens",
+    "description": "Préparez-vous efficacement à vos entretiens d'embauche ou de promotion. Simulation de situations réelles, retours constructifs et techniques pour décrocher le poste de vos rêves.",
+    "duree": "2 semaines",
+    "sessions": "4 séances",
+    "format": "Individuel",
+    "icon": "MessageSquare",
+    "benefices": [
+      "Présentation personnelle impactante",
+      "Réponses aux questions difficiles",
+      "Simulation d'entretiens réels",
+      "Mise en valeur du CV et profil LinkedIn",
+      "Négociation salariale"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nom": "Aminata S.",
+    "poste": "Étudiante en comptabilité",
+    "entreprise": "",
+    "texte": "Une formation très pratique et professionnelle. Les formateurs sont excellents et les supports de cours de grande qualité. Je recommande vivement AVEC à tous ceux qui veulent progresser !",
+    "etoiles": 5,
+    "photo": "/temoignages/aminata.jpg"
+  },
+  {
+    "id": 2,
+    "nom": "Cheikh T.",
+    "poste": "Directeur d'entreprise",
+    "entreprise": "SenTech SARL",
+    "texte": "Excellent accompagnement pour notre entreprise. L'équipe d'AVEC est compétente, disponible et très professionnelle. Grâce à leur consulting, nous avons restructuré notre organisation avec succès.",
+    "etoiles": 5,
+    "photo": "/temoignages/cheikh.jpg"
+  },
+  {
+    "id": 3,
+    "nom": "Fatou K.",
+    "poste": "Responsable RH",
+    "entreprise": "DakarPlus Group",
+    "texte": "Service rapide et équipe sérieuse. Très satisfaite des profils proposés pour notre département RH. AVEC a parfaitement compris nos besoins et a su proposer des candidats de qualité.",
+    "etoiles": 5,
+    "photo": "/temoignages/fatou.jpg"
+  },
+  {
+    "id": 4,
+    "nom": "Ibrahima D.",
+    "poste": "Entrepreneur",
+    "entreprise": "IDA Consulting",
+    "texte": "Le coaching entrepreneuriat a transformé ma façon de voir mon business. J'ai pu structurer mon projet et obtenir un financement. Merci à toute l'équipe AVEC !",
+    "etoiles": 5,
+    "photo": "/temoignages/ibrahima.jpg"
+  }
+]

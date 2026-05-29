@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "titre": "Formation et emploi au Sénégal : quelles opportunités en 2024 ?",
+    "slug": "formation-emploi-senegal-2024",
+    "categorie": "Formation",
+    "auteur": "Équipe AVEC",
+    "date": "15 Mars 2024",
+    "lecture": "5 min",
+    "resume": "Le marché de l'emploi sénégalais connaît une transformation profonde. La formation professionnelle s'impose comme le levier indispensable pour saisir les nouvelles opportunités économiques.",
+    "contenu": "Le Sénégal connaît une croissance économique soutenue depuis plusieurs années, portée notamment par les découvertes pétrolières et gazières. Cette dynamique crée de nouveaux besoins en compétences professionnelles dans de nombreux secteurs. La formation professionnelle continue est plus que jamais le meilleur moyen de rester compétitif sur le marché du travail.",
+    "tags": ["Formation", "Emploi", "Sénégal", "Opportunités"],
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "titre": "10 conseils pour réussir son entretien d'embauche en Afrique",
+    "slug": "conseils-entretien-embauche-afrique",
+    "categorie": "Carrière",
+    "auteur": "Moussa Diop",
+    "date": "28 Février 2024",
+    "lecture": "7 min",
+    "resume": "Préparer un entretien d'embauche nécessite une préparation rigoureuse. Voici les 10 conseils de nos coaches pour maximiser vos chances de décrocher le poste.",
+    "contenu": "La réussite d'un entretien d'embauche ne doit rien au hasard. Elle résulte d'une préparation méthodique, d'une présentation soignée et d'une connaissance approfondie de l'entreprise cible. Pensez à toujours adapter votre discours aux réalités locales tout en démontrant une vision globale de votre métier.",
+    "tags": ["Entretien", "Carrière", "Conseils", "Emploi"],
+    "image": "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "titre": "RH moderne : l'importance de la gestion des talents en entreprise",
+    "slug": "rh-moderne-gestion-talents",
+    "categorie": "RH",
+    "auteur": "Fatima Kane",
+    "date": "10 Février 2024",
+    "lecture": "6 min",
+    "resume": "La gestion des talents est devenue une priorité stratégique pour les entreprises performantes. Comment attirer, développer et fidéliser les meilleurs profils ?",
+    "contenu": "Dans un contexte de guerre des talents de plus en plus intense, les entreprises africaines doivent repenser leur approche en matière de gestion des ressources humaines. Offrir un bon salaire ne suffit plus, il faut proposer un plan de carrière, de la formation continue et un environnement de travail stimulant.",
+    "tags": ["RH", "Talents", "Management", "Entreprise"],
+    "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "titre": "Le coaching professionnel : un investissement rentable pour votre carrière",
+    "slug": "coaching-professionnel-investissement",
+    "categorie": "Coaching",
+    "auteur": "Équipe AVEC",
+    "date": "25 Janvier 2024",
+    "lecture": "4 min",
+    "resume": "Nombreux sont ceux qui voient le coaching comme un luxe. Pourtant, les chiffres montrent que c'est l'un des meilleurs retours sur investissement pour une carrière professionnelle.",
+    "contenu": "Le coaching professionnel a longtemps été réservé aux cadres dirigeants des grandes entreprises. Aujourd'hui, il s'est démocratisé et s'adresse à tous les professionnels souhaitant accélérer leur développement personnel et surmonter leurs blocages.",
+    "tags": ["Coaching", "Carrière", "ROI", "Développement"],
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "titre": "Entrepreneuriat au Sénégal : comment financer son projet ?",
+    "slug": "entrepreneuriat-senegal-financement",
+    "categorie": "Entrepreneuriat",
+    "auteur": "Ibrahima Sarr",
+    "date": "8 Janvier 2024",
+    "lecture": "8 min",
+    "resume": "Le financement reste l'un des principaux défis pour les entrepreneurs sénégalais. Découvrez les différentes options disponibles et comment préparer votre dossier.",
+    "contenu": "L'entrepreneuriat au Sénégal connaît un véritable essor, porté par une jeunesse dynamique et des programmes gouvernementaux d'appui. Mais la question du financement demeure cruciale. Des business angels locaux aux fonds d'investissement internationaux, les opportunités existent si l'on sait comment les saisir.",
+    "tags": ["Entrepreneuriat", "Financement", "Startup", "Sénégal"],
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32b7?auto=format&fit=crop&w=800&q=80"
+  }
+]

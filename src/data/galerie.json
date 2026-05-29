@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "titre": "Session de formation bureautique",
+    "categorie": "Formation",
+    "description": "Formation informatique & bureautique avec un groupe de 20 participants",
+    "date": "Mars 2024",
+    "image": "/galerie_formation.png",
+    "couleur": "#1565C0"
+  },
+  {
+    "id": 2,
+    "titre": "Atelier de coaching leadership",
+    "categorie": "Coaching",
+    "description": "Workshop interactif sur le développement du leadership professionnel",
+    "date": "Février 2024",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#C62828"
+  },
+  {
+    "id": 3,
+    "titre": "Réunion de consulting stratégique",
+    "categorie": "Consulting",
+    "description": "Accompagnement stratégique d'une PME dakaroise dans sa restructuration",
+    "date": "Janvier 2024",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#0D2137"
+  },
+  {
+    "id": 4,
+    "titre": "Cérémonie de remise de diplômes",
+    "categorie": "Formation",
+    "description": "Remise des attestations aux apprenants de la promotion Comptabilité 2023",
+    "date": "Décembre 2023",
+    "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#F9A825"
+  },
+  {
+    "id": 5,
+    "titre": "Forum emploi et recrutement",
+    "categorie": "Intérim / RH",
+    "description": "Participation au forum emploi de Dakar avec plus de 150 candidats rencontrés",
+    "date": "Novembre 2023",
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32b7?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#2E7D32"
+  },
+  {
+    "id": 6,
+    "titre": "Séance de coaching individuel",
+    "categorie": "Coaching",
+    "description": "Accompagnement personnalisé d'un cadre en transition professionnelle",
+    "date": "Octobre 2023",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#C62828"
+  },
+  {
+    "id": 7,
+    "titre": "Formation en gestion de caisse",
+    "categorie": "Formation",
+    "description": "Session pratique sur les techniques de caisse et contrôle financier",
+    "date": "Septembre 2023",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#1565C0"
+  },
+  {
+    "id": 8,
+    "titre": "Séminaire entrepreneuriat jeunes",
+    "categorie": "Consulting",
+    "description": "Séminaire dédié aux jeunes entrepreneurs de moins de 35 ans à Dakar",
+    "date": "Août 2023",
+    "image": "https://images.unsplash.com/photo-1515169067868-5387ec356754?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#0D2137"
+  },
+  {
+    "id": 9,
+    "titre": "Journée portes ouvertes AVEC",
+    "categorie": "Événement",
+    "description": "Présentation de nos offres de formation et consulting au grand public",
+    "date": "Juillet 2023",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+    "couleur": "#F9A825"
+  }
+]

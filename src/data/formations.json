@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "titre": "Informatique & Bureautique",
+    "description": "Maîtrisez les outils informatiques essentiels : Word, Excel, PowerPoint, Internet et les outils de communication numérique. Une formation indispensable pour tous les professionnels modernes.",
+    "duree": "4 semaines",
+    "niveau": "Débutant",
+    "heures": "80h",
+    "prixInscription": "25 000 FCFA",
+    "prixMensuel": "20 000 FCFA",
+    "categorie": "Informatique",
+    "objectifs": [
+      "Maîtriser Microsoft Office (Word, Excel, PowerPoint)",
+      "Utiliser efficacement Internet et la messagerie",
+      "Créer des présentations professionnelles",
+      "Gérer des tableaux et bases de données simples"
+    ],
+    "prochaineDemarrage": "15 Juin 2024",
+    "places": 20,
+    "icon": "Monitor",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "titre": "Comptabilité & Gestion",
+    "description": "Formation complète en comptabilité générale, analytique et gestion financière. Apprenez à tenir les livres comptables, établir des bilans et gérer les flux de trésorerie d'une entreprise.",
+    "duree": "8 semaines",
+    "niveau": "Intermédiaire",
+    "heures": "160h",
+    "prixInscription": "35 000 FCFA",
+    "prixMensuel": "30 000 FCFA",
+    "categorie": "Finance",
+    "objectifs": [
+      "Maîtriser les principes de la comptabilité générale",
+      "Établir des bilans et comptes de résultats",
+      "Gérer la trésorerie et les flux financiers",
+      "Utiliser les logiciels comptables (SAGE, EBP)"
+    ],
+    "prochaineDemarrage": "1er Juillet 2024",
+    "places": 15,
+    "icon": "Calculator",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "titre": "Gestion de Caisse",
+    "description": "Formation spécialisée en gestion de caisse, encaissement, rendu de monnaie et contrôle des stocks. Idéale pour les futurs caissiers, gestionnaires de points de vente et responsables financiers.",
+    "duree": "2 semaines",
+    "niveau": "Débutant",
+    "heures": "40h",
+    "prixInscription": "15 000 FCFA",
+    "prixMensuel": "15 000 FCFA",
+    "categorie": "Commerce",
+    "objectifs": [
+      "Maîtriser les techniques d'encaissement",
+      "Gérer les caisses et les flux monétaires",
+      "Établir des rapports de caisse quotidiens",
+      "Détecter et prévenir les fraudes"
+    ],
+    "prochaineDemarrage": "10 Juin 2024",
+    "places": 25,
+    "icon": "DollarSign",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "titre": "Entrepreneuriat & Business",
+    "description": "Développez vos compétences entrepreneuriales et apprenez à créer, gérer et développer votre propre entreprise. De l'idée au business plan, en passant par le financement et le marketing.",
+    "duree": "6 semaines",
+    "niveau": "Tous niveaux",
+    "heures": "120h",
+    "prixInscription": "30 000 FCFA",
+    "prixMensuel": "25 000 FCFA",
+    "categorie": "Business",
+    "objectifs": [
+      "Élaborer un business plan solide",
+      "Comprendre le financement d'entreprise",
+      "Développer une stratégie marketing",
+      "Gérer et faire croître son activité"
+    ],
+    "prochaineDemarrage": "20 Juin 2024",
+    "places": 18,
+    "icon": "TrendingUp",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "titre": "Développement Personnel",
+    "description": "Renforcez votre confiance en vous, améliorez vos compétences relationnelles et développez votre leadership personnel. Une formation transformatrice pour atteindre vos objectifs de vie et de carrière.",
+    "duree": "3 semaines",
+    "niveau": "Tous niveaux",
+    "heures": "60h",
+    "prixInscription": "20 000 FCFA",
+    "prixMensuel": "15 000 FCFA",
+    "categorie": "Personal",
+    "objectifs": [
+      "Renforcer la confiance et l'estime de soi",
+      "Améliorer la communication interpersonnelle",
+      "Développer le leadership personnel",
+      "Gérer le stress et les émotions"
+    ],
+    "prochaineDemarrage": "5 Juillet 2024",
+    "places": 20,
+    "icon": "Star",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "titre": "Secrétariat & Assistanat",
+    "description": "Formation complète pour devenir secrétaire ou assistant(e) de direction. Gestion du courrier, accueil téléphonique, organisation des réunions et rédaction de documents professionnels.",
+    "duree": "5 semaines",
+    "niveau": "Débutant",
+    "heures": "100h",
+    "prixInscription": "25 000 FCFA",
+    "prixMensuel": "20 000 FCFA",
+    "categorie": "Administration",
+    "objectifs": [
+      "Gérer le secrétariat et la correspondance",
+      "Organiser les agendas et réunions",
+      "Maîtriser l'accueil physique et téléphonique",
+      "Rédiger des documents professionnels"
+    ],
+    "prochaineDemarrage": "15 Juillet 2024",
+    "places": 20,
+    "icon": "FileText",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=600&q=80"
+  }
+]
